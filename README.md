@@ -7,4 +7,4 @@ It serves both as a **learning journal** and as a **portfolio showcase**.
 
 ## 📂 Repository Structure
 
-- **01-basics/** → Simple programs (Hello World, variables, operators, loops, conditionals).
+- **01-Basics/** → Simple programs (Hello World, variables, operators, loops, conditionals).
