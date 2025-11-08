@@ -1,4 +1,4 @@
-// Program to find out if a number is ever or odd without using arithmetic operators.
+// Program to find out if a number is even or odd without using arithmetic operators.
 
 import java.util.Scanner;
 
@@ -16,3 +16,4 @@ public class EvenOrOddWithoutUsingArithmeticOperators {
         }
     }
 }
+
