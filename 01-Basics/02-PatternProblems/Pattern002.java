@@ -7,7 +7,7 @@ Pattern:
 * * * * *
 */
 
-public class Pattern2 {
+public class Pattern002 {
     public static void main(String[] args){
         for(int i=1; i<=5; i++){
             for(int j=1; j<=i; j++){
@@ -17,3 +17,4 @@ public class Pattern2 {
         }
     }
 }
+
