@@ -9,7 +9,7 @@ Pattern: (Hollow Square)
 
 import java.util.Scanner;
 
-public class Pattern11 {
+public class Pattern011 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
@@ -31,4 +31,5 @@ public class Pattern11 {
         }
         scanner.close();
     }
+
 }
