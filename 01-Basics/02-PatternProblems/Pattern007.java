@@ -11,7 +11,7 @@ Pattern:
 
 import java.util.Scanner;
 
-public class Pattern7 {
+public class Pattern007 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
@@ -33,3 +33,4 @@ public class Pattern7 {
         scanner.close();
     }
 }
+
