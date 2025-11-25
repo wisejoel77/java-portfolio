@@ -9,7 +9,7 @@ Pattern:(Hollow Rectangle)
 
 import java.util.Scanner;
 
-public class Pattern12 {
+public class Pattern012 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
@@ -29,4 +29,5 @@ public class Pattern12 {
         }
         scanner.close();
     }
+
 }
