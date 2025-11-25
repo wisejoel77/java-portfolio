@@ -9,7 +9,7 @@ Pattern:
 
 import java.util.Scanner;
 
-public class Pattern5 {
+public class Pattern005 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
@@ -24,3 +24,4 @@ public class Pattern5 {
         scanner.close();
     }
 }
+
