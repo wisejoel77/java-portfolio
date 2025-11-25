@@ -34,3 +34,4 @@
 22. ***WAP to find the LCM (Least Common Multiple) of two positive integers.
     Hint: LCM = (a*b) / GCD(a,b)
 23. WAP to count the total number of divisors of a given integer.
+24. ***Pattern Problems ( Refer to your portfolio. )
