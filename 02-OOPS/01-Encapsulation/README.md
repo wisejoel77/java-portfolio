@@ -1,4 +1,4 @@
-# Encapsulation Projects (Java)
+# Encapsulation Projects
 
 This folder contains a series of projects demonstrating the concept of **Encapsulation** in Java using real-world domain models.
 
