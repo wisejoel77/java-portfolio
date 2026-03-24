@@ -41,16 +41,5 @@ To demonstrate how encapsulation:
 
 ---
 
-## ⚙️ Run
-
-Compile and run any project:
-
-javac *.java  
-java Main  
-
----
-
 ## 👤 Author
-
-Arnold Joel Joshua Matangi  
-Java Portfolio – OOP Series
+Arnold Joel Joshua Matangi
