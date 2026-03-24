@@ -1,97 +1,45 @@
-# Bank Account System (Encapsulation)
+# 🔐 Bank Account System
 
-This project demonstrates the concept of **Encapsulation** using a real-world banking example.
-
-It models a secure bank account where sensitive data like balance, is protected and accessed only through controlled methods.
-
----
-
-## 🎯 Objective
-
-To implement a simple banking system that:
-- Protects account data
-- Validates transactions
-- Demonstrates proper encapsulation in Java
+A Java project demonstrating **Encapsulation** using a secure banking model.  
+Protects sensitive data like balance and ensures all transactions are validated.
 
 ---
 
-## 🧠 Concepts Covered
+## ✨ Features
 
-- Private fields and controlled access
-- Constructor validation
-- Getter and setter usage
-- Input validation
-- Encapsulation of business logic
-- Defensive programming
-
----
-
-## 📦 Class Overview
-
-### `BankAccount`
-Represents a secure bank account with validated operations.
-
-**Key Features:**
-- Immutable account number (no setter)
-- Safe deposit and withdrawal logic
-- Negative withdrawal normalization (intentional design)
-- Consistent currency formatting
+- Secure balance handling (no direct access)  
+- Validated deposit and withdrawal operations  
+- Overdraft protection  
+- Negative withdrawal normalization  
+- Clean currency formatting  
 
 ---
 
-## ⚙️ Functionalities
+## 🧠 Concepts
 
-### ✅ Deposit
-- Accepts only positive amounts
-- Rejects invalid values
-
-### ✅ Withdraw
-- Prevents overdraft
-- Accepts both positive and negative values  
-  (Negative values are normalized using absolute value)
-
-### ✅ Data Protection
-- Balance cannot be directly modified
-- Account number cannot be changed after creation
-
----
-
-## 🧪 Demo Scenarios
-
-The demo includes:
-
-✔ Valid account operations  
-✔ Negative deposit attempt  
-✔ Over-withdrawal protection  
-✔ Invalid constructor inputs  
+- Private fields with controlled access  
+- Constructor and setter validation  
+- Business logic encapsulation  
+- Defensive programming  
 
 ---
 
 ## 📁 Files
 
-- `BankAccount.java` → Core encapsulated model
-- `Main.java` → Demonstration and validation scenarios
+- `BankAccount.java` → Core model  
+- `Main.java` → Demo and test cases  
 
 ---
 
-## 💡 Design Decisions
+## 🎯 Goal
 
-- Withdrawal accepts negative input intentionally for normalization
-- The constructor uses setters to avoid validation duplication
-- Currency formatting improves real-world readability
-
----
-
-## 🚀 Learning Outcome
-
-This project demonstrates how encapsulation:
-- Protects object integrity
-- Prevents invalid state mutations
-- Improves reliability of domain models
+To demonstrate how encapsulation:
+- Protects financial data  
+- Prevents invalid transactions  
+- Improves system reliability  
 
 ---
 
-## 📌 Author
+## 👤 Author
 
-**Arnold Joel Joshua Matangi**  
-Java Portfolio Project – Encapsulation Series
+Arnold Joel Joshua Matangi
