@@ -1,54 +1,56 @@
-# Encapsulation Projects
+# 🔒 Encapsulation Projects
 
-This folder contains a series of projects demonstrating the concept of **Encapsulation** in Java using real-world domain models.
+A collection of Java projects demonstrating the concept of **Encapsulation** using real-world domain models.
 
-Encapsulation ensures that object data is protected and accessed only through controlled methods.
+Encapsulation ensures that data is protected and accessed only through controlled methods, improving reliability and maintainability.
 
 ---
 
 ## 📚 Projects
 
-### 1️⃣ Bank Account System
-A secure banking model demonstrating balance protection and transaction validation.
-
+### 1️⃣ Bank Account System  
+A secure banking model demonstrating balance protection and transaction validation.  
 👉 [View Project](./01-bank-account)
 
----
-
-### 2️⃣ Student Profile System
-A student domain model focusing on identity protection and academic data validation.
-
+### 2️⃣ Student Profile System  
+A student domain model focusing on identity protection and academic data validation.  
 👉 [View Project](./02-student-profile)
 
----
-
-### 3️⃣ Product Pricing System
-A pricing model demonstrating discount validation and business rule encapsulation.
-
+### 3️⃣ Product Pricing System  
+A pricing model demonstrating discount validation and business rule encapsulation.  
 👉 [View Project](./03-product-system)
 
 ---
 
-## 🧠 Concepts Demonstrated
+## 🧠 Concepts
 
-- Private fields and controlled access
-- Validation through setters
-- Immutable identity patterns
-- Business logic inside domain models
-- Defensive programming
-
----
-
-## 🚀 Learning Goal
-
-These projects progressively demonstrate how encapsulation:
-- Protects data integrity
-- Prevents invalid states
-- Improves reliability of object-oriented systems
+- Private fields with controlled access  
+- Data validation using setters  
+- Immutable identity patterns  
+- Business logic inside classes  
+- Defensive programming  
 
 ---
 
-## 📌 Author
+## 🎯 Goal
 
-**Arnold Joel Joshua Matangi**  
+To demonstrate how encapsulation:
+- Protects data integrity  
+- Prevents invalid object states  
+- Improves object-oriented design  
+
+---
+
+## ⚙️ Run
+
+Compile and run any project:
+
+javac *.java  
+java Main  
+
+---
+
+## 👤 Author
+
+Arnold Joel Joshua Matangi  
 Java Portfolio – OOP Series
