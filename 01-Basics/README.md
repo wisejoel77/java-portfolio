@@ -1,40 +1,52 @@
-# 🧩 Beginner Problems
+# 🧱 Basics
 
-A collection of simple Java programs covering basic programming concepts.
+A collection of Java programs covering fundamental programming concepts.
 
-These problems are designed to build a strong foundation in logic, syntax, and problem-solving.
-
----
-
-## ✨ Topics Covered
-
-- Basic input and output  
-- Arithmetic operations  
-- Conditional statements (if-else, switch)  
-- Loops (for, while, do-while)  
-- Simple calculations and conversions  
+This section builds a strong foundation in logic, syntax, and problem-solving through structured practice.
 
 ---
 
-## 📁 Contents
+## 📚 Sections
 
-Includes programs such as:
+### 1️⃣ Beginner Problems  
+Basic programs focusing on core syntax and logic building.  
+👉 [View Section](./01-BeginnerProblems)
 
-- Area calculations (circle, rectangle, triangle)  
-- BMI calculator  
-- Number operations (sum, max, etc.)  
-- Unit conversions (feet, inches, etc.)  
-- Grade and eligibility checkers  
-- Basic logic problems  
+### 2️⃣ Pattern Problems  
+Exercises to master nested loops and pattern logic.  
+👉 [View Section](./02-PatternProblems)
+
+### 3️⃣ Methods  
+Programs demonstrating functions, reusability, and modular design.  
+👉 [View Section](./03-Methods)
+
+### 4️⃣ Arrays  
+Problems focused on handling collections of data and matrix operations.  
+👉 [View Section](./04-Arrays)
+
+### 5️⃣ Strings  
+Exercises for string manipulation and text processing.  
+👉 [View Section](./05-Strings)
+
+---
+
+## 🧠 Concepts
+
+- Variables and data types  
+- Conditional statements  
+- Loops and control flow  
+- Methods and modular design  
+- Arrays and collections  
+- String manipulation  
 
 ---
 
 ## 🎯 Goal
 
-To build a strong foundation in Java by:
-- Practicing basic syntax  
+To build a strong programming foundation by:
+- Practicing core Java concepts  
 - Improving logical thinking  
-- Solving simple real-world problems  
+- Solving real-world basic problems  
 
 ---
 
