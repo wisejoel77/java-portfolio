@@ -1,6 +1,6 @@
 # 🖥️ Java Portfolio
 
-This repository contains my journey of learning **Java programming**, from the very basics to Object-Oriented Programming, Data Structures, and mini-projects.  
+This repository contains my journey of learning **Java programming**, from the very basics to Object-Oriented Programming, Data Structures, mini-projects, and projects.  
 It serves both as a **learning journal** and as a **portfolio showcase**.
 
 ---
