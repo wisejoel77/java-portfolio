@@ -1,0 +1,7 @@
+Employee ID: EMP001
+Name: Arnold Joel Joshua Matangi
+Department: Software Development
+Position: Full Stack Java Developer
+Salary: $300,000
+Email: arnold@wisejoel77.com
+Phone: 1234567890
