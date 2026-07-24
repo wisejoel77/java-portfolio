@@ -1,3 +1,3 @@
 ### File I/0 Overview
 ---
-- **[EmployeeDocumentReader](EmployeeDocumentReader.java)** → Reading files using `FileInputStream`
+- **[EmployeeDocumentReader](EmployeeDocumentReader/EmployeeDocumentReader.java)** → Reading files using `FileInputStream`
