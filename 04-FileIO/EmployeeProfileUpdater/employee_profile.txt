@@ -1,0 +1,49 @@
+==================================================
+             EMPLOYEE PROFILE
+==================================================
+
+Employee ID      : EMP2045
+Full Name        : Ethan Brooks
+Department       : Software Engineering
+Designation      : Software Engineer
+Date of Joining  : 08-Jan-2024
+Employment Type  : Full-Time
+Annual Salary    : £65,000
+Work Location    : Bengaluru
+Manager          : Sarah Mitchell
+
+--------------------------------------------------
+CONTACT INFORMATION
+--------------------------------------------------
+Email            : ethan.brooks@wiseorganization.com
+Phone            : +91 91234 56789
+
+--------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------
+- Java
+- Spring Boot
+- SQL
+- Git
+- REST APIs
+- Docker
+
+--------------------------------------------------
+CURRENT PROJECT
+--------------------------------------------------
+Project Name     : Employee Management System
+Role             : Backend Developer
+Project Status   : In Progress
+
+--------------------------------------------------
+PERFORMANCE SUMMARY
+--------------------------------------------------
+Performance Rating : Excellent
+Last Review Date   : 15-Apr-2026
+Remarks            : Consistently delivers high-quality
+                     code and collaborates effectively
+                     with team members.
+
+==================================================
+End of Employee Profile
+==================================================
