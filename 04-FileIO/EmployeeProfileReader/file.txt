@@ -1,0 +1,27 @@
+========================================
+        EMPLOYEE PROFILE
+========================================
+
+Employee ID      : EMP77
+Full Name        : Arnold Joel Joshua Matangi
+Department       : Software Engineering
+Designation      : Software Engineer
+Date of Joining  : 15-Mar-2029
+Employment Type  : Full-Time
+Work Location    : Earth
+Email            : arnold@wiseorganization.com
+Phone            : 98765 43210
+Manager          : Bonnie
+
+----------------------------------------
+Skills
+----------------------------------------
+- Java
+- SQL
+- Git
+- REST APIs
+
+----------------------------------------
+Status
+----------------------------------------
+Active Employee
