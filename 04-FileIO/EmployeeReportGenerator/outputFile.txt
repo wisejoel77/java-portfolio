@@ -1,0 +1,5 @@
+Employee ID: WISE77
+Full Name: Arnold Joel Joshua Matangi
+Department: IT
+Designation: Software Engineer
+Salary: €75000.0
