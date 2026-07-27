@@ -8,3 +8,4 @@
 - **[EmployeeProfileReader](EmployeeProfileReader/EmployeeProfileReader.java)** → Reading text files using `FileReader`
 - **[EmployeeOfferLetterGenerator](EmployeeOfferLetterGenerator/EmployeeOfferLetterGenerator.java)** → Writing text files using `FileWriter`
 - **[EmployeeProfileUpdater](EmployeeProfileUpdater/EmployeeProfileUpdater.java)** → Copying text files efficiently using `BufferedReader` and `BufferedWriter`
+- **[EmployeeRecordNavigator](EmployeeRecordNavigator/EmployeeRecordNavigator.java)** → Demonstrating random file navigation using `seek()`, `getFilePointer()`, and `readLine()` with `RandomAccessFile`
