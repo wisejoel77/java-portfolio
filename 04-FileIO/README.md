@@ -6,3 +6,4 @@
 - **[EmployeeArchiveViewer](EmployeeArchiveViewer/EmployeeArchiveViewer.java)** → Reading files efficiently using `BufferedInputStream`
 - **[EmployeeReportGenerator](EmployeeReportGenerator/EmployeeReportGenerator.java)** → Writing files efficiently using `BufferedOutputStream`
 - **[EmployeeProfileReader](EmployeeProfileReader/EmployeeProfileReader.java)** → Reading text files using `FileReader`
+- **[EmployeeOfferLetterGenerator](EmployeeOfferLetterGenerator/EmployeeOfferLetterGenerator.java)** → Writing text files using `FileWriter`
