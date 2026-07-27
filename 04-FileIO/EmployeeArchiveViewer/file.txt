@@ -1,0 +1,4 @@
+Employee ID: WISE77
+Full Name: Arnold Joel Joshua Matangi
+Department: IT
+Email: arnold@wisejoel77.com
