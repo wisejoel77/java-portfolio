@@ -1,11 +1,11 @@
-package com.wisejoel77.FileIO.EmployeeRecordViewer;
+package com.wisejoel77.FileIO.EmployeeRecordNavigator;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
 
 public class EmployeeRecordNavigator {
     public static void main(String[] args){
-        try (RandomAccessFile randomAccessFile = new RandomAccessFile("src\\com\\wisejoel77\\FileIO\\EmployeeRecordViewer\\file.txt", "rw")){
+        try (RandomAccessFile randomAccessFile = new RandomAccessFile("src\\com\\wisejoel77\\FileIO\\EmployeeRecordNavigator\\file.txt", "rw")){
             System.out.println("Writing the text to the file...");
             randomAccessFile.writeBytes("Hello, I am Arnold Joel Joshua Matangi");
             System.out.println("The pointer is now at " + randomAccessFile.getFilePointer());
