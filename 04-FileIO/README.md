@@ -7,3 +7,4 @@
 - **[EmployeeReportGenerator](EmployeeReportGenerator/EmployeeReportGenerator.java)** → Writing files efficiently using `BufferedOutputStream`
 - **[EmployeeProfileReader](EmployeeProfileReader/EmployeeProfileReader.java)** → Reading text files using `FileReader`
 - **[EmployeeOfferLetterGenerator](EmployeeOfferLetterGenerator/EmployeeOfferLetterGenerator.java)** → Writing text files using `FileWriter`
+- **[EmployeeProfileUpdater](EmployeeProfileUpdater/EmployeeProfileUpdater.java)** → Copying text files efficiently using `BufferedReader` and `BufferedWriter`
