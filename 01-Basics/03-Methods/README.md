@@ -1,43 +1,11 @@
-# ⚙️ Methods
-
-A collection of Java programs demonstrating the use of methods (functions).
-
-These examples focus on breaking problems into reusable units and improving code structure.
-
+### Methods Overview
 ---
-
-## ✨ Topics Covered
-
-- Method creation and usage  
-- Parameter passing  
-- Return values  
-- Method overloading  
-- Varargs (variable arguments)  
-
----
-
-## 📁 Contents
-
-Includes programs such as:
-
-- Multiplication table using methods  
-- Prime number check  
-- Area and calculations using methods  
-- Simple utility methods (greetings, grading, etc.)  
-- Method overloading examples  
-- Varargs usage  
-
----
-
-## 🎯 Goal
-
-To understand how methods:
-- Improve code reusability  
-- Simplify complex problems  
-- Enhance readability and structure  
-
----
-
-## 👤 Author
-
-Arnold Joel Joshua Matangi
+- **[Variable Length Arguments](Varargs.java)** → Demonstrates the use of variable-length arguments (varargs) in methods.
+- **[Method Overloading](MethodOverloading.java)** → Demonstrates method overloading using different parameter lists.
+- **[Multiplication Table](M01MultiplicationTable.java)** → Generates a multiplication table using a method.
+- **[Prime Or Not](M02PrimeOrNot.java)** → Checks whether a given number is prime using a method.
+- **[Area And Circumference Of A Circle](M03AreaAndCircumferenceOfACircle.java)** → Calculates the area and circumference of a circle using methods.
+- **[Greeting Method](M04GreetingMethod.java)** → Demonstrates creating and calling a simple greeting method.
+- **[Price Calculation](M05PriceCalculation.java)** → Calculates the total price using a reusable method.
+- **[Eligible To Vote Or Not](M06EligibleToVoteOrNot.java)** → Checks voting eligibility using a method.
+- **[Student Grading](M07StudentGrading.java)** → Determines a student's grade using a method.
