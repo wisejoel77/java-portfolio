@@ -1,0 +1,6 @@
+package com.wisejoel77.LambdaExpressions.WeatherAlertSystem;
+
+@FunctionalInterface
+public interface TemperatureAlert {
+    boolean checkHeatWaveStatus(double temperature);
+}
