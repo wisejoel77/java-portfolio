@@ -6,3 +6,4 @@
 - **[LoanInterestCalculator](LoanInterestCalculator/)** → Calculating simple interest using a multi-parameter lambda
 - **[DiscountPricingSystem](DiscountPricingSystem/)** → Passing different pricing behaviors as arguments using lambda expressions
 - **[SalaryBonusCalculator](SalaryBonusCalculator/)** → Capturing a local variable inside a lambda expression
+- **[TemperatureConverter](TemperatureConverter/)** → Converting temperatures using a static method reference
