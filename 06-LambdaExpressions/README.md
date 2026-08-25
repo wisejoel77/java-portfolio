@@ -15,3 +15,4 @@
 - **[OrderNotificationSystem](OrderNotificationSystem/)** → Processing orders using the `Consumer<T>` functional interface
 - **[OrderProcessingSystem](OrderProcessingSystem/)** → Processing orders using `Consumer<T>` and chaining multiple actions with `andThen()`
 - **[ProductPriceCalculator](ProductPriceCalculator/)** → Calculating discounted prices using the `Function<T, R>` functional interface and `apply()`
+- **[RandomPasswordGenerator](RandomPasswordGenerator/RandomPasswordGenerator.java)** → Generating random values using the `Supplier<T>` functional interface and `get()`
