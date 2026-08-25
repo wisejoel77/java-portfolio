@@ -11,3 +11,4 @@
 - **[ProductNameAnalyzer](ProductNameAnalyzer/ProductNameAnalyzer.java)** → Sorting strings using an instance method reference to an arbitrary object
 - **[CustomerProfileFactory](CustomerProfileFactory/)** → Creating multiple `Customer` objects using a constructor reference (`ClassName::new`)
 - **[StudentEligibilityChecker](StudentEligibilityChecker/StudentEligibilityChecker.java)** → Checking eligibility using the `Predicate<T>` functional interface
+- **[ProductFilterSystem](ProductFilterSystem/)** → Combining filtering conditions using `Predicate<T>` and its `and()`, `or()`, and `negate()` methods
