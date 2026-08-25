@@ -8,3 +8,4 @@
 - **[SalaryBonusCalculator](SalaryBonusCalculator/)** → Capturing a local variable inside a lambda expression
 - **[TemperatureConverter](TemperatureConverter/)** → Converting temperatures using a static method reference
 - **[TextReportFormatter](TextReportFormatter/)** → Formatting text using an instance method reference to a specific object
+- **[ProductNameAnalyzer](ProductNameAnalyzer.java)** → Sorting strings using an instance method reference to an arbitrary object
