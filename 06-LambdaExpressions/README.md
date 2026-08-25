@@ -10,4 +10,4 @@
 - **[TextReportFormatter](TextReportFormatter/)** → Formatting text using an instance method reference to a specific object
 - **[ProductNameAnalyzer](ProductNameAnalyzer/ProductNameAnalyzer.java)** → Sorting strings using an instance method reference to an arbitrary object
 - **[CustomerProfileFactory](CustomerProfileFactory/)** → Creating multiple `Customer` objects using a constructor reference (`ClassName::new`)
-- **[StudentEligibilityChecker](StudentEligibilityChecker.java)** → Checking eligibility using the `Predicate<T>` functional interface
+- **[StudentEligibilityChecker](StudentEligibilityChecker/StudentEligibilityChecker.java)** → Checking eligibility using the `Predicate<T>` functional interface
