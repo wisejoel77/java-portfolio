@@ -14,3 +14,4 @@
 - **[ProductFilterSystem](ProductFilterSystem/)** → Combining filtering conditions using `Predicate<T>` and its `and()`, `or()`, and `negate()` methods
 - **[OrderNotificationSystem](OrderNotificationSystem/)** → Processing orders using the `Consumer<T>` functional interface
 - **[OrderProcessingSystem](OrderProcessingSystem/)** → Processing orders using `Consumer<T>` and chaining multiple actions with `andThen()`
+- **[ProductPriceCalculator](ProductPriceCalculator/)** → Calculating discounted prices using the `Function<T, R>` functional interface and `apply()`
