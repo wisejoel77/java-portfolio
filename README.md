@@ -15,7 +15,7 @@ It serves as both a **learning journal** and a **portfolio**, showcasing my prog
 * **[03-ExceptionHandling](03-ExceptionHandling/)** → Practice programs covering Java exception handling, from basic `try-catch` blocks to custom exceptions.
 * **[04-FileIO](04-FileIO/)** → Programs demonstrating Java file handling using byte streams, character streams, buffered streams, and `RandomAccessFile`.
 * **[05-CollectionsFramework](05-CollectionsFramework/)** → Practice programs covering the Java Collections Framework, including `List`, `Set`, `Queue`, `Deque`, `Map`, iterators, sorting, and collection-based problem solving.
-* * **[06-LambdaExpressions](06-LambdaExpressions/)** → Practice programs covering Lambda Expressions and functional interfaces, including `Predicate`, `Consumer`, `Function`, `Supplier`, `UnaryOperator`, `BinaryOperator`, method references, constructor references, and practical lambda-based problem solving.
+* **[06-LambdaExpressions](06-LambdaExpressions/)** → Practice programs covering Lambda Expressions and functional interfaces, including `Predicate`, `Consumer`, `Function`, `Supplier`, `UnaryOperator`, `BinaryOperator`, method references, constructor references, and practical lambda-based problem solving.
 ---
 
 ## 📝 Repository Structure Note
