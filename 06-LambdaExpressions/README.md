@@ -16,4 +16,4 @@
 - **[OrderProcessingSystem](OrderProcessingSystem/)** → Processing orders using `Consumer<T>` and chaining multiple actions with `andThen()`
 - **[ProductPriceCalculator](ProductPriceCalculator/)** → Calculating discounted prices using the `Function<T, R>` functional interface and `apply()`
 - **[RandomPasswordGenerator](RandomPasswordGenerator/RandomPasswordGenerator.java)** → Generating random values using the `Supplier<T>` functional interface and `get()`
-- **[NumberOperationProcessor](NumberOperationProcessor/)** → Applying different mathematical behaviors through a reusable method using the `UnaryOperator<T>` functional interface
+- **[NumberOperationProcessor](NumberOperationProcessor/NumberOperationProcessor.java)** → Applying different mathematical behaviors through a reusable method using the `UnaryOperator<T>` functional interface
