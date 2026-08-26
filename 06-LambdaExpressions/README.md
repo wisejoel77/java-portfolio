@@ -17,3 +17,4 @@
 - **[ProductPriceCalculator](ProductPriceCalculator/)** → Calculating discounted prices using the `Function<T, R>` functional interface and `apply()`
 - **[RandomPasswordGenerator](RandomPasswordGenerator/RandomPasswordGenerator.java)** → Generating random values using the `Supplier<T>` functional interface and `get()`
 - **[NumberOperationProcessor](NumberOperationProcessor/NumberOperationProcessor.java)** → Applying different mathematical behaviors through a reusable method using the `UnaryOperator<T>` functional interface
+- **[GenericBinaryOperator](GenericBinaryOperator/)** → Applying different two-argument behaviors using the `BinaryOperator<T>` functional interface and a generic method
